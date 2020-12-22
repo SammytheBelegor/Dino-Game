@@ -1,2 +1,2 @@
-# Ninja
-Platform ninja game written by Python
+# Dino
+Dino game written by Python
